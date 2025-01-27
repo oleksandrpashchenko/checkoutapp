@@ -3,7 +3,7 @@
 client_id = "c399598dc45a87ba7bbfd7764572fad8"
 name = "checkout-app"
 handle = "checkout-app-785"
-application_url = "https://classifieds-mime-unless-fleet.trycloudflare.com"
+application_url = "https://pasta-scholarship-throughout-yea.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = ""
 
 [auth]
 redirect_urls = [
-  "https://classifieds-mime-unless-fleet.trycloudflare.com/auth/callback",
-  "https://classifieds-mime-unless-fleet.trycloudflare.com/auth/shopify/callback",
-  "https://classifieds-mime-unless-fleet.trycloudflare.com/api/auth/callback"
+  "https://pasta-scholarship-throughout-yea.trycloudflare.com/auth/callback",
+  "https://pasta-scholarship-throughout-yea.trycloudflare.com/auth/shopify/callback",
+  "https://pasta-scholarship-throughout-yea.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]

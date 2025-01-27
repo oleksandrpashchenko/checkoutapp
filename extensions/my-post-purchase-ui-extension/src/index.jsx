@@ -82,11 +82,11 @@ export function App({ extensionPoint, storage }) {
       <BlockStack spacing="loose">
       <CalloutBanner title="Post-purchase extension template">
           Use this template as a starting point to build a great post-purchase
-          extension.
+          extension
       </CalloutBanner> 
       <Layout
           maxInlineSize={0.95}
-          media={[
+          media={[ 
           { viewportSize: "small", sizes: [1, 30, 1] },
           { viewportSize: "medium", sizes: [300, 30, 0.5] },
           { viewportSize: "large", sizes: [400, 30, 0.33] },
